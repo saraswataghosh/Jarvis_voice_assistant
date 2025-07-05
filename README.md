@@ -1,0 +1,1 @@
+Jarvis is a voice-activated virtual assistant built using Python. It performs tasks such as opening websites, playing music, fetching news, and answering queries using OpenAI's GPT model. Inspired by AI assistants like Alexa and Google Assistant, Jarvis listens for a wake word and executes spoken commands in real time
